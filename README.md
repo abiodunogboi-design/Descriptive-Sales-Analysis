@@ -1,9 +1,9 @@
 # Vespera Dynamics: Descriptive Sales Analysis Dashboard (Power BI)
 
 > A Power BI dashboard that turns multi-year Egyptian sales records into clear answers on regional market share, governorate performance, seasonality, product demand and order value.
-
+---
 <img width="656" height="431" alt="Screenshot 2026-11-20 113656" src="https://github.com/user-attachments/assets/35ba9473-7731-459a-991f-6305c0d4837e" />
-
+---
 
 ---
 
