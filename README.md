@@ -17,7 +17,7 @@
 | **Headline results** | **49.52M EGP** sales · **6.55M EGP** profit · **13%** margin · **2,000** orders · **9,483** units · **24.76K EGP** average order value |
 | **Tools** | Power BI Desktop, Power Query, DAX |
 | **Model** | Star schema: 1 fact table, 4 dimension tables and a calendar table |
-| **Period** | Year buttons for 2023 to 2026; figures below combine all years |
+| **Period** | Year buttons for 2023 to 2025; figures below combine all years |
 | **Currency** | Egyptian pounds (EGP) |
 | **Data source** | AI-generated synthetic dataset created for portfolio practice; it contains no real company or customer data |
 
@@ -123,7 +123,7 @@ Calendar Date        = CALENDARAUTO()
 | Profit Margin | 13% |
 | Average Order Value | 24.76K EGP |
 
-**Visuals:** Total Revenue per State · Sales Regional Distribution · Total Sales by Category · Total Sales vs Total Sales (PM). The year buttons (2023 to 2026) filter the page.
+**Visuals:** Total Revenue per State · Sales Regional Distribution · Total Sales by Category · Total Sales vs Total Sales (PM). The year buttons (2023 to 2025) filter the page.
 
 ---
 
