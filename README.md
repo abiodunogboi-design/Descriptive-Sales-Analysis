@@ -2,7 +2,8 @@
 
 > A Power BI dashboard that turns multi-year Egyptian sales records into clear answers on regional market share, governorate performance, seasonality, product demand and order value.
 
-![Vespera Dynamics dashboard](images/vespera-dashboard.png)
+![Vespera Dynamics dashboard](<img width="477" height="338" alt="Screenshot 2026-10-14 140707" src="https://github.com/user-attachments/assets/38aed963-fab0-4cd9-b561-71d24dba4997" />
+)
 
 ---
 
